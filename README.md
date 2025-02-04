@@ -10,7 +10,7 @@ A simple Java console-based project demonstrating **inheritance** by managing di
 
 ## 🛠 Technologies Used
 - Java (Core Java, OOP, Inheritance)
-- IDE: (Eclipse/IntelliJ/VS Code)
+- IDE: (Eclipse)
 
 ## 🚀 How to Run
 1. Clone this repository:
